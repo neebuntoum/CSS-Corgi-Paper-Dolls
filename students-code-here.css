@@ -1,0 +1,35 @@
+.funny-glasses {
+    width: 80px;
+    position: relative;
+    left: 213px;
+    bottom: 110px;
+    z-index: 1; 
+}
+.bandana{
+    width: 80px;
+    transform: rotate(10deg);
+    position: absolute;
+    bottom: 72px;
+    left: 105px;
+}
+.pawprint {
+    width: 45px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    top: 45px;
+    left: 65px;
+}
+.corgi {
+    width: 200px;
+    height: 200px;
+    position: sticky;
+    left: 0px;
+}
+.top-hat {
+    position: relative;
+    left: 175px;
+    top: -170px;
+    width: 40px;
+    z-index: 1;
+  }
